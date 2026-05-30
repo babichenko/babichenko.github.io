@@ -1,16 +1,11 @@
 ---
 permalink: /non-menu-page/
-title: "Page not in menu"
+title: "Page retired"
 author_profile: true
+sitemap: false
 redirect_from: 
   - "/nmp/"
   - "/nmp.html"
 ---
 
-This is a page not in the menu. You can use markdown in this page.
-
-Heading 1
-======
-
-Heading 2
-======
+This template demo page is no longer used on this site.

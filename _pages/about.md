@@ -7,10 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Anna Babichenko. Look! This is a website!
+![Photo placeholder for Anna Babichenko](/images/profile.png)
 
-## This is a title!
+Incoming Computer Science transfer student at CSU Fullerton with a mathematics background. I write about learning, building, accessibility, and the messy middle of becoming technical.
 
-### And a smaller title.
+## Currently working toward
 
-More text.
+- building this personal website
+- designing better accessibility tools for hearing aid users
+- making small software projects, including a Discord study bot
+- strengthening my CS fundamentals through coursework and projects

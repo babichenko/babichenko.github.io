@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Anna Babichenko"
 title_separator          : "-"
 name                     : &name "Anna Babichenko"
-description              : &description "Anna Babichenko's website"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Anna Babichenko's personal website and blog"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://babichenko.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,21 +26,21 @@ author:
   avatar           : "profile.png"
   name             : "Anna Babichenko"
   pronouns         : "she/her/hers"  
-  bio              : "Part-time book reader, full-time stem student, all-time plant lover"
+  bio              : "Incoming Computer Science transfer student at CSU Fullerton with a mathematics background."
   location         : "Irvine, CA"
   employer         : "California State University, Fullerton"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : 
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : 
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   researchgate     : # URL
   scopus           : # URL
 
@@ -48,7 +48,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "babichenko"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
