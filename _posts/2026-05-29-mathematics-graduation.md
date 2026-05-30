@@ -1,4 +1,4 @@
-\---
+---
 
 title: "Mathematics Graduation"
 
@@ -6,7 +6,7 @@ date: 2026-05-29
 
 permalink: /blog/graduating-with-mathematics/
 
-\---
+---
 
 
 
@@ -58,5 +58,5 @@ Thank you Orange Coast College and everyone who was part of this chapter. I’m 
 
 
 
-\*Originally posted on \[LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7466285113488846850/).\*
+*Originally posted on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7466285113488846850/).*
 

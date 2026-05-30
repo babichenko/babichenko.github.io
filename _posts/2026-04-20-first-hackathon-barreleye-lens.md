@@ -1,4 +1,4 @@
-\---
+---
 
 title: "First Hackathon: Barreleye Lens"
 
@@ -6,7 +6,7 @@ date: 2026-04-20
 
 permalink: /blog/first-hackathon-barreleye-lens/
 
-\---
+---
 
 
 
@@ -36,9 +36,9 @@ For the next competition, I will focus on building a fully usable project before
 
 
 
-See the project and code on GitHub: \[Barreleye Lens](https://github.com/JonathanBarsoum/Fully-hacks-2026/blob/main/README.md)
+See the project and code on GitHub: [Barreleye Lens](https://github.com/JonathanBarsoum/Fully-hacks-2026/blob/main/README.md)
 
 
 
-\*Originally posted on \[LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7452095388880228352/).\*
+*Originally posted on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7452095388880228352/).*
 

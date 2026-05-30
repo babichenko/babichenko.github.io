@@ -1,4 +1,4 @@
-\---
+---
 
 title: "Rocket Launch Lessons"
 
@@ -6,7 +6,7 @@ date: 2026-05-29
 
 permalink: /blog/rocket-launch-lessons/
 
-\---
+---
 
 
 
@@ -46,5 +46,5 @@ Back to the drawing board.
 
 
 
-\*Originally posted on \[LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7466272723116269568/).\*
+*Originally posted on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7466272723116269568/).*
 
