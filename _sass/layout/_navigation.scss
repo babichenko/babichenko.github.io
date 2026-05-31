@@ -152,8 +152,13 @@
 
     &.disabled {
       color: var(--global-text-color-light);
+      background-color: var(--global-border-color);
+      border-color: var(--global-border-color);
+      opacity: 0.45;
       pointer-events: none;
       cursor: not-allowed;
+}
+}
     }
   }
 }
