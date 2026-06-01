@@ -10,15 +10,15 @@ permalink: /blog/rocket-launch-lessons/
 
 This month, I launched my rocket!
 
-![Me and my rocket](/images/blog/rocket-launch-hold.jpg)
+![Me and my rocket](/images/blog/rocket-launch-hold.JPG)
 
 I joined the Coast Aeronautics and Astronautics Research Lab with some of my peers for one of our launch days at the ROC launch site in Lucerne Valley. We drove out to the desert early in the morning, signed in through the Tripoli Rocketry Association, and spent the day watching rockets shoot up before launching our own.
 
-![Ta-Da!](/images/blog/rocket-launch-car.jpg)
+![Ta-Da!](/images/blog/rocket-launch-car.JPG)
 
 For my rocket, I used a design I had been deliberating on for a while. I spray painted it black and used a whiteout pen to draw on it like a chalkboard. I added doodles, math equations, and anything else that would go in my notebook. I always found it silly that such complex work shared space with random squiggles on one page.
 
-![At the launch pad](/images/blog/rocket-launch-pad.jpg)
+![At the launch pad](/images/blog/rocket-launch-pad.JPG)
 
 My rocket shot up with a large roar. I waited for it to release its parachute and… the release never came. I had used too much tape on the nose cone, which created too much friction. The rocket came down hard and did not survive the landing.
 
