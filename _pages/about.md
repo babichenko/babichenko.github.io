@@ -9,11 +9,18 @@ redirect_from:
 
 ![Photo placeholder for Anna Babichenko](/images/profile.png)
 
-Incoming Computer Science transfer student at CSU Fullerton with a mathematics background. I write about learning, building, accessibility, and the messy middle of becoming technical.
+Hi, I’m Anna.
 
-## Currently working toward
+I am an incoming Computer Science transfer student at CSU Fullerton with an Associate in Science in Mathematics from OCC. My math background includes calculus, linear algebra, differential equations, and statistics. I am now building my way into computer science through projects and coursework.
 
-- building this personal website
-- designing better accessibility tools for hearing aid users
-- making small software projects, including a Discord study bot
-- strengthening my CS fundamentals through coursework and projects
+I’m interested in accessibility technology, alternative operating systems, and cybersecurity.
+
+This summer, I’m taking Introduction to Computer Software Development and Cybersecurity Foundations while working part-time.
+
+## Currently working on
+
+- Building this personal website
+- Learning more about the apps and software that support hearing aid technology
+- Using Linux to understand adaptability as a user
+- Making Excel spreadsheets for budgeting
+- Practicing LeetCode and CS fundamentals
