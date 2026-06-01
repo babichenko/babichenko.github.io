@@ -10,7 +10,7 @@ permalink: /blog/first-hackathon-barreleye-lens/
 
 Yesterday, I completed my first hackathon. I came into it not knowing any other participants and finished with a strong group and a project that I was proud of.
 
-![Presenting the project](/images/blog/barreleye-lens-hackathon-presentation.jpg)
+![Presenting the Project](/images/blog/barreleye-lens-hackathon.jpg)
 
 We used ArcGIS by Esri to build a project that visualized environmental data across California for people to make informed decisions about pollution and unsafe water conditions in their communities. We used authoritative data sets from California Open Data and those provided by the platform.
 
